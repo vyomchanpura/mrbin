@@ -9,8 +9,8 @@
 //Adafruit_Si7021 sensor = Adafruit_Si7021();
 //
 //-------- Customise these values -----------
-const char* ssid = "vvc";
-const char* password = "vyom@2106";
+const char* ssid = "SSID";
+const char* password = "PASS";
 //long duration, distance;
 //#define led1 D7
 //#define led2 D5
