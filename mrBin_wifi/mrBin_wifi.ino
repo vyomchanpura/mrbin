@@ -25,10 +25,10 @@ float longitude;
 int fire;
 
 
-#define ORG "favhlw"
-#define DEVICE_TYPE "smartBin"
-#define DEVICE_ID "SB01"
-#define TOKEN "YtG2vVz@P2YXSvlRd6"
+#define ORG "ORGANIZATION ID"
+#define DEVICE_TYPE "NAME OF THE DEVICE"
+#define DEVICE_ID "ID OF THE DEVICE"
+#define TOKEN "AUTHORIZED TOKEN"
 //-------- Customise the above values --------
 
 char server[] = ORG ".messaging.internetofthings.ibmcloud.com";
